@@ -1,4 +1,6 @@
 package com.demo.qa.testcases;
 
-public class IbottaLoginTest {
+import com.demo.qa.base.DemoTestBase;
+
+public class IbottaLoginTest extends DemoTestBase {
 }
